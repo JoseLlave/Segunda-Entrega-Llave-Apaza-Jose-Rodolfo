@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "title": "Producto Ejemplo 1",
+    "description": "Descripción del producto ejemplo 1",
+    "code": "P001",
+    "price": 100.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electronicos",
+    "thumbnails": ["imagen1.jpg", "imagen2.jpg"]
+  },
+  {
+    "id": 2,
+    "title": "Producto Ejemplo 2",
+    "description": "Descripción del producto ejemplo 2",
+    "code": "P002",
+    "price": 200.50,
+    "status": true,
+    "stock": 30,
+    "category": "Hogar",
+    "thumbnails": []
+  },
+  {
+    "id": 3,
+    "title": "Producto Ejemplo 3",
+    "description": "Descripción del producto ejemplo 3",
+    "code": "P003",
+    "price": 150.75,
+    "status": true,
+    "stock": 20,
+    "category": "Ropa",
+    "thumbnails": ["imagen3.jpg"]
+  }
+]
